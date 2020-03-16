@@ -102,6 +102,10 @@ body {
   padding: 10px 0px;
 }
 
+#main-doc li {
+  padding-top: 10px;
+}
+
 #declaring_variables p {
   margin: 0px;
   padding: 10px 0px;
