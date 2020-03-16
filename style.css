@@ -109,11 +109,12 @@ body {
 @media (max-device-width: 768px) {
   #navbar {
     width: 100%;
-    height: 100px;
+    height: 320px;
+    position: absolute;
   }
 
   #main-doc {
     margin-left: 0px;
-    padding-top: 25%;
+    padding-top: 300px;
   }
 }
