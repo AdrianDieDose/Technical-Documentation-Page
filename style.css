@@ -92,6 +92,7 @@ body {
 
 #main-doc code {
   display: block;
+  width: 100%;
   padding: 20px;
   background-color: RGBA(240, 219, 79, 35%);
   border-radius: 3px;
