@@ -118,4 +118,13 @@ body {
     margin-left: 0px;
     padding-top: 400px;
   }
+
+  #navbar header {
+    font-size: 7rem;
+    padding: 100px 0px;
+  }
+
+  #navbar li {
+    font-size: 3.5rem;
+  }
 }
